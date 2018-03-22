@@ -1,0 +1,195 @@
+/* Stylesheet */
+#wrapper{
+    /* background-color: rgb(94, 12, 94); */
+    width: 970px;
+    /* height: 1280px; */
+    margin: 0px auto;
+    padding: 0px;
+}
+.header h1{
+    display: inline-block;
+    color: black;
+    font-size: 47pt;
+    margin: 0px 0px 10px 0px;
+    padding-top: 134px;
+    vertical-align: top;
+}
+.header .hext{
+    color:blue;
+}
+.header h2{
+    color: white;
+    background-color: darkblue;
+    font-size: 30pt;
+    display: block;
+    background-image: linear-gradient(rgb(14, 16, 161), lightblue, rgb(14, 16, 161));
+}
+#timage{
+    padding-top: 10px;
+    margin-top: 10px;
+    position: relative;
+    display: inline-block;
+}
+.subtitle{
+    padding: 20px;
+    margin-top: -30px;
+    
+}
+.sidebar{
+    display: inline-block;
+    /* background-color: yellow; */
+    width: 300px;
+}
+.sidebar h3{
+    display: inline-block;
+    font-size: 16pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.sidebar .video{
+    display: block;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 16pt;
+    color: white;
+    padding: 10px;
+}
+.sidebar .resources{
+    display: block;
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: rgb(202, 73, 27);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 16pt;
+    color: white;
+    padding: 10px;
+}
+.ad{
+    background-image: url("images/ad_background.png");
+    background-size: 500px auto;
+    height: 420px;
+    /* width: 200px; */
+}
+.ad p{
+    color: white;
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px auto;
+    display: inline-block;
+    width: 280px;
+    padding-top: 10px;
+}
+.addimage{
+    margin-left: 68px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.adbutton{
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 250px;
+    background-color: mediumblue;
+    background-image: linear-gradient(mediumblue, lightblue, mediumblue);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 16pt;
+    color: white;
+    padding: 10px;
+}
+#content{
+    display: inline-block;
+    height: 594px;
+    width: 624px;
+    /* background-color: yellow; */
+    vertical-align: top;
+    padding: 20px;
+}
+#content h3{
+    font-size: 12pt;
+    color: rgb(38, 96, 116);
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 27px;
+    width: 380px;
+}
+.numbers{
+    display: inline-block;
+}
+.numbers h4{
+    color: lightblue;
+    font-size: 16pt;
+    line-height: 24px;
+    display: block;
+    text-align: center;
+}
+.numbers p{
+    color: black;
+    font-size: 10pt;
+    text-align: center;
+    display: block;
+}
+#content h5{
+    color: darkblue;
+    font-size: 16pt;
+    line-height: 30px;
+}
+.list p{
+    width: 575px;
+}
+.list{
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    list-style-type:disc;
+}
+.contimage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 130px;
+    margin-right: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.olist{
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    list-style-type: decimal;
+    width: 530px; 
+    
+}
+.diagram{
+    /* background-color: yellow; */
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+}
+.diagram img{
+    margin: 20px;
+}
+.diagraminfo h4{
+    color: blue;
+    font-size: 24pt;
+    text-align: center;
+    line-height: 32px;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 30px;
+}
+.diagraminfo{
+    font-size: 12pt;
+    display: inline-block;
+    width: 410px;
+    /* background-color: yellow; */
+    margin: 10px;
+}
